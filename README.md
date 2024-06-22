@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Zijin
-#### I am data analyst / statistician in healthcare and social sciences.
+### Hi there! I'm Zijin 👋 👩🏻‍💻
+#### I am data analyst / statistician in healthcare and social science primary and secondary research.
 
 ![I am data analyst / statistician in healthcare and social sciences.](https://github.com/zijinyu1/zijinyu1/blob/main/banner.png)
 
 ## Skills and Experience
 * 📊 Database management, predictive modeling and machine learning
-* 👩🏻‍💻 Process / pipeline streamlining
+* 💻 Process / pipeline streamlining
 * ✅ Project management and collaboration
 * 💡 Skills: Python / SQL / / SAS / R / ETL / Tableau / Power BI / ArcGIS 
 
