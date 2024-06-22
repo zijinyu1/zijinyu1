@@ -1,5 +1,9 @@
 ### Hi there 👋, my name is Zijin
 #### I am data analyst / statistician in healthcare and social sciences.
+<p align="center"><a href="https://github.com/zijinyu1"><img width="80%" alt="Hello, I'm Zijin I do data analysis, visualization, and modeling!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 ![I am data analyst / statistician in healthcare and social sciences.](https://github.com/zijinyu1/zijinyu1/blob/main/banner.png)
 
 ## Skills and Experience
