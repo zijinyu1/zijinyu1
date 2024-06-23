@@ -1,7 +1,7 @@
 ### Hi there! I'm Zijin 👋 👩🏻‍💻
 #### I am data analyst / statistician in healthcare and social science primary and secondary research.
 
-![I am data analyst / statistician in healthcare and social sciences.](https://github.com/zijinyu1/zijinyu1/blob/main/banner.png)
+![I am data analyst / statistician in healthcare and social sciences.](https://github.com/zijinyu1/zijinyu1/blob/main/banner1.png.png)
 
 ## Skills and Experience 🗺️
 * 📊 Database management, predictive modeling and machine learning
