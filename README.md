@@ -1,9 +1,9 @@
-### Hi there! I'm Zijin 👋 👩🏻‍💻
+### Hi there! I'm Yuri 👋 👩🏻‍💻
 #### I am analysis manager in healthcare and social science primary & secondary research.
 ![Alt text](https://github.com/zijinyu1/zijinyu1/blob/main/banner_yuri.png)
 
 ## Skills and Experience 🗺️
-* 📊 Database management, predictive modeling and machine learning
+* 📊 Database management, warehouse, predictive modeling and machine learning
 * 💻 Process / pipeline streamlining
 * ✅ Project management and collaboration
 * 💡 Skills: Python / SQL / / SAS / R / ETL / Tableau / Power BI / ArcGIS 
