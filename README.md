@@ -1,6 +1,7 @@
 ### Hi there! I'm Zijin 👋 👩🏻‍💻
 #### I am analysis manager in healthcare and social science primary & secondary research.
-![Alt text](https://github.com/zijinyu1/zijinyu1/blob/main/banner_yuri.png)
+<img width="1823" height="864" alt="README" src="https://github.com/user-attachments/assets/b44aca0b-1a73-4575-9808-5c313d56f3c4" />
+
 
 ## Skills and Experience 🗺️
 * 📊 Database management, warehouse, predictive modeling and machine learning
