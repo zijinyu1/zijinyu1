@@ -1,4 +1,4 @@
-### Hi there! I'm Yuri 👋 👩🏻‍💻
+### Hi there! I'm Zijin 👋 👩🏻‍💻
 #### I am analysis manager in healthcare and social science primary & secondary research.
 ![Alt text](https://github.com/zijinyu1/zijinyu1/blob/main/banner_yuri.png)
 
